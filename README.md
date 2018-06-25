@@ -1,6 +1,6 @@
 ## Project Title
 
-A Game
+A Platform Game
 
 ## Getting Started
 
